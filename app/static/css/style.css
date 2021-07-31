@@ -1,0 +1,31 @@
+body {
+    background-image: url("../img/bg.png");
+    background-position: center 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+}
+
+.input_show {
+    margin-top: 35px;
+    max-width: 280px;
+    height: 35px;
+}
+
+.btn_num {
+    margin: 1px 1px 1px 1px;
+    width: 60px;
+}
+
+.btn_clear {
+    margin-left: 40px;
+    margin-right: 20px;
+}
+
+.extendContent {
+    height: 300px;
+}
